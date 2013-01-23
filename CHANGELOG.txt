@@ -1,0 +1,7 @@
+===========================
+Django Whatismyip Changelog
+===========================
+
+Version 0.1, 23th Jan 2013:
+---------------------------
+* First packaged version
